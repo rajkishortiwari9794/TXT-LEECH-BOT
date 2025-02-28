@@ -9,15 +9,15 @@
     ],
     "repository": "https://github.com/20255-ee-085/TXT-LEECH-BOT",
     "env": {
-        "BOT_TOKEN": {
+        "7186894335:AAFJadSIW_H2v0VupMB4iie3ydxUWIFDH3Q": {
             "description": "Your bot token from @BotFather",
             "required": true
         },
-        "API_ID": {
+        "24954614": {
             "description": "Your API_ID from my.telegram.org",
             "required": true
         },
-        "API_HASH": {
+        "854d71e266722a054d214898c754c70b": {
             "description": "Your API_HASH from my.telegram.org",
             "required": true
         }
